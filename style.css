@@ -49,7 +49,6 @@ a {
 #footer {
     background-color: darkgreen;
     clear: both;
-    height: 20px;
+    height: 50px;
     color: white;
-    padding: 23px;
 }
