@@ -4,7 +4,7 @@ body {
 
 a {
     text-decoration: none;
-    color: darkorange;
+    color: #013ADF;
 }
 
 #container {
@@ -33,7 +33,7 @@ a {
 
 #menu .selected{
     font-weight:bold;
-
+    color: darkmagenta;
 }
 
 #menu ul {
@@ -44,6 +44,8 @@ a {
 #main {
     width: 630px;
     float: right;
+    background-color: beige;
+    height: auto;
 }
 
 #footer {
