@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7df64d53-200b-498d-ada4-bdaeac0507d9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image/Slide1/Slide1.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plan.html" afterPath="$PROJECT_DIR$/plan.html" />
     </list>
     <ignored path="CossiePlay.iws" />
@@ -29,8 +28,8 @@
       <file leaf-file-name="plan.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/plan.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="109" selection-start-line="25" selection-start-column="109" selection-end-line="25" selection-end-column="109" />
+            <state relative-caret-position="345">
+              <caret line="23" column="62" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -219,12 +218,12 @@
       <updated>1464043426222</updated>
       <workItem from="1464043431181" duration="924000" />
       <workItem from="1464044592763" duration="6843000" />
-      <workItem from="1464059779739" duration="1640000" />
+      <workItem from="1464059779739" duration="1954000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9407000" />
+    <option name="totallyTimeSpent" value="9721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="179" y="23" width="868" height="697" extended-state="0" />
@@ -431,8 +430,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/plan.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="109" selection-start-line="25" selection-start-column="109" selection-end-line="25" selection-end-column="109" />
+        <state relative-caret-position="345">
+          <caret line="23" column="62" selection-start-line="23" selection-start-column="62" selection-end-line="23" selection-end-column="62" />
           <folding />
         </state>
       </provider>
